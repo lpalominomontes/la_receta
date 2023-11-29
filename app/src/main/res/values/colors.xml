@@ -2,4 +2,9 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="apptheme">#5AE0A5</color>
+    <color name="textview">#D9D9D9</color>
+    <color name="colorButton">#19E5C0</color>
+    <color name="colorButtonRegister">#1BBDA0</color>
+    <color name="registerBackground">#4BE9C3</color>
 </resources>

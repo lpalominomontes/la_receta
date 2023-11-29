@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">la receta</string>
+    <string name="user">user...</string>
+    <string name="password">password...</string>
+    <string name="registrar">REGISTRAR</string>
+    <string name="iniciar">INICIAR</string>
 </resources>
